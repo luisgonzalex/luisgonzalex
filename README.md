@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems with code. 
 - 📚 I am a 3rd-year student studying [CS@MIT](https://www.eecs.mit.edu/).
 - 🌱 I’m currently interning [@Datadog](https://www.datadoghq.com/) 🐶 building [Agent Integrations](https://github.com/DataDog/integrations-core).
-- ⏭️ I will be interning [@Stripe](https://stripe.com/) 💳 this summer working on [Payment Methods](https://stripe.com/payments/features#payment-options).
+- ⏭️ I will be interning [@Stripe](https://stripe.com/) 💳 this summer working on [Payment Methods](https://stripe.com/docs/api/payment_methods).
 - 📫 Reach me at luisgonz@mit.edu!
 
 <!---
